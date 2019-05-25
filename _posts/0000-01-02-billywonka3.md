@@ -2,5 +2,5 @@
 layout: slide
 title: “Welcome to our second slide!”
 ---
-Your test change of line 5
+""My fake plants died because I did not pretend to water them." - Mitch Hedberg"
 Use the left arrow to go back!
